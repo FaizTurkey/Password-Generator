@@ -4,6 +4,8 @@ A simple, modern, and responsive Random Password Generator built using HTML, CSS
 
 Generate strong and secure passwords instantly by customizing the password length and choosing which character types to include.
 
+live Link : https://fizzypasswordgenerator.netlify.app/
+
 ✨ Features
 
 🔑 Generate random passwords instantly
